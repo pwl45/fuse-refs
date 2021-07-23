@@ -30,7 +30,7 @@ This project serves an implementation of a variant of the reference filesystem i
 
 Compile refs with `make`
 
-Mount the filesystem on a directory with `./refs -s -d {directory}`
+Mount the filesystem on a directory with `./refs -s -d {directory}`. Unmount with `fusermount -u {directory}`
 
 Comple `writetest.c` with `gcc -o writetest writetest.c`
 
