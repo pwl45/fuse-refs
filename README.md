@@ -30,6 +30,8 @@ This project serves an implementation of a variant of the reference filesystem i
 
 Compile refs with `make`
 
+Mount the filesystem on a directory with `./refs -s -d {directory}'
+
 Comple `writetest.c` with `gcc -o writetest writetest.c`
 
 Note that `writetest.sh` assumes writetest.c has been compiled to an executable called `writetest`. 
