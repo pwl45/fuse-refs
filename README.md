@@ -1,10 +1,7 @@
 # FUSE Reference FS (ReFS)
 
-In this (2-part) assignment,
-you will implement a variant of the reference file system described in the textbook
+This project serves an implementation of a variant of the reference filesystem impilemented in Operating Systems: Three Easy Pieces. 
 ([chapter 40](http://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf)).
-You may create additional files if you would like,
-but your FUSE file system's `main()` method should be in a file named `refs.c`.
 
  * [Lab Handout](http://cs.williams.edu/~jannen/teaching/s21/cs333/labs/fuse/fuse-fs.html)
 
